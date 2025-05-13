@@ -1,0 +1,14 @@
+# This is a generated file; do not edit or check into version control.
+onnxruntime=/Users/lizhan/.pub-cache/hosted/pub.flutter-io.cn/onnxruntime-1.4.1/
+permission_handler=/Users/lizhan/.pub-cache/hosted/pub.flutter-io.cn/permission_handler-11.4.0/
+permission_handler_android=/Users/lizhan/.pub-cache/hosted/pub.flutter-io.cn/permission_handler_android-12.1.0/
+permission_handler_apple=/Users/lizhan/.pub-cache/hosted/pub.flutter-io.cn/permission_handler_apple-9.4.7/
+permission_handler_html=/Users/lizhan/.pub-cache/hosted/pub.flutter-io.cn/permission_handler_html-0.1.3+5/
+permission_handler_windows=/Users/lizhan/.pub-cache/hosted/pub.flutter-io.cn/permission_handler_windows-0.2.1/
+record=/Users/lizhan/.pub-cache/hosted/pub.flutter-io.cn/record-6.0.0/
+record_android=/Users/lizhan/.pub-cache/hosted/pub.flutter-io.cn/record_android-1.3.1/
+record_ios=/Users/lizhan/.pub-cache/hosted/pub.flutter-io.cn/record_ios-1.0.0/
+record_linux=/Users/lizhan/.pub-cache/hosted/pub.flutter-io.cn/record_linux-1.0.0/
+record_macos=/Users/lizhan/.pub-cache/hosted/pub.flutter-io.cn/record_macos-1.0.0/
+record_web=/Users/lizhan/.pub-cache/hosted/pub.flutter-io.cn/record_web-1.1.6/
+record_windows=/Users/lizhan/.pub-cache/hosted/pub.flutter-io.cn/record_windows-1.0.5/
